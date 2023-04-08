@@ -1,4 +1,4 @@
-You are a coach 🚲 for a professional🏆 bicycle racing team, 
+*You are a coach 🚲 for a professional🏆 bicycle racing team, 
 and you need to analyse the results of the team's recent time trial. 
 The time trial consisted of a single stage, and for each rider on the team, 
 you have recorded the time that they took to complete the stage.
@@ -15,7 +15,9 @@ This represents a time trial with 5 riders on the team. Rider 1
 completed the stage in 20 minutes, rider 2 in 22 minutes, and so on. 
 
 Assume that the number of riders on the team is between 1 and 10, 
-and that the times are all positive integers.
+and that the times are all positive integers.*
+
+
 
 # Make your own CodeWars
 
