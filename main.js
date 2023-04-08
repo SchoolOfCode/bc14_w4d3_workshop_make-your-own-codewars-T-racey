@@ -1,5 +1,5 @@
 /* 
-You are a coach for a professional bicycle racing team, 
+You are a coach 🚲 for a professional🏆 bicycle racing team, 
 and you need to analyse the results of the team's recent time trial. 
 The time trial consisted of a single stage, and for each rider on the team, 
 you have recorded the time that they took to complete the stage.
@@ -23,5 +23,5 @@ and that the times are all positive integers.
 {
 
 //Your function should calculate the average time taken by all riders and be returned as a string with two decimal places:
-"24.00"
+"24.00"🕔
 
